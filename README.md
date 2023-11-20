@@ -1,4 +1,4 @@
-Nama Anggota
+👨‍🦲 Nama Anggota 👩‍🦲
 - Aggitya Yosafat Hutabarat (2206082902)
 - Catur Wira Mukti Nugroho (2206083483)
 - Dyandra Nadine Zahira (2206028264)
