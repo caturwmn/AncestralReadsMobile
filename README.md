@@ -26,3 +26,7 @@ Manfaat dari website ini adalah pembaca dapat mengakses buku-buku yang diterbitk
 👦👧User Biasa (Member): Memasukkan judul buku yang ingin dibaca pada halaman bookmark, menghapus buku yang sudah tidak dibaca, memberi ulasan buku, mengajukan request pengadaan suatu buku.
 
 👵Pustakawan (Admin): Menambahkan buku baru, menghapus buku, dan mengedit keterangan buku.
+
+📰 ---Berita Acara--- 📰
+
+[Berita Acara Kelompok B01](https://docs.google.com/spreadsheets/d/1zmUzPm34MB2xwXZVjVh4mSuMAWh0hM1XZBRv8MRpI2g/edit#gid=0)
