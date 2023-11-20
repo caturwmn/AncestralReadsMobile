@@ -4,8 +4,10 @@ Catur Wira Mukti Nugroho (2206083483)
 Dyandra Nadine Zahira (2206028264)
 Gina Afia (2206830334)
 Muhammad Hanif (2206029941)
-Tema Aplikasi: Perpustakaan Buku Lawas.apk
-Nama Aplikasi: AncestralReads
+
+📱 Tema Aplikasi: Perpustakaan Buku Lawas.apk
+
+🍎 Nama Aplikasi: AncestralReads
 
 💾 💾---Cerita Aplikasi---💾 💾
 
